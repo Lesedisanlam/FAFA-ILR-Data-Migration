@@ -31,7 +31,7 @@
 
             {
 
-                _driver = TestBase.SiteConnection();
+                _driver = base.SiteConnection();
                 sheet = "Policy-Verification";
 
             }
