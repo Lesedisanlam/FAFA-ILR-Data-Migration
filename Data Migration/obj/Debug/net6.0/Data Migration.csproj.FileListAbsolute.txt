@@ -1,0 +1,5 @@
+C:\Users\G992107\Documents\Github\FE\FAFA-ILR-Data-Migration\Data Migration\obj\Debug\net6.0\Data Migration.csproj.AssemblyReference.cache
+C:\Users\G992107\Documents\Github\FE\FAFA-ILR-Data-Migration\Data Migration\obj\Debug\net6.0\Data Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G992107\Documents\Github\FE\FAFA-ILR-Data-Migration\Data Migration\obj\Debug\net6.0\Data Migration.AssemblyInfoInputs.cache
+C:\Users\G992107\Documents\Github\FE\FAFA-ILR-Data-Migration\Data Migration\obj\Debug\net6.0\Data Migration.AssemblyInfo.cs
+C:\Users\G992107\Documents\Github\FE\FAFA-ILR-Data-Migration\Data Migration\obj\Debug\net6.0\Data Migration.csproj.CoreCompileInputs.cache
